@@ -1,11 +1,3 @@
-from pymongo import MongoClient
-import certifi
-
-ca = certifi.where()
-
-client = MongoClient('mongodb+srv://test:sparta@cluster0.icgzjjq.mongodb.net/?retryWrites=true&w=majority', tlsCAFile=ca)
-db = client.test
-
 # 저장 - 예시
 doc = {'name':'bobby','age':21}
 db.users.insert_one(doc)
