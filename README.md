@@ -5,13 +5,13 @@
 - 기간 : 2023.01.01 - 2023.01.31
 
 ## Schedule & Result
-### 2023년 버킷리스트 제작
+### 1. 2023년 버킷리스트 제작
 - 토이 프로젝트(1 Day)
 - 최종 결과물 & 느낀점 👉🏻 [버킷리스트](https://github.com/heeye-log/spartacodingclub/blob/main/bucketlist_site/README.md)
 
 ---
 
-### 웹개발 종합반 수강
+### 2. 웹개발 종합반 수강
 |No|내용|
 |------|---|
 |1주차|서버와 클리이언트 이해, HTML, CSS의 기초 지식 이해,Javascript 기초 문법 익히기|
