@@ -5,7 +5,6 @@
 배포 후 실제 모습 보기 👉 [아이유 팬명록](http://heeye.store/)
 
 - html, css, js 사용
-- 동적 웹 페이지 생성
 - EC2 업로드
 
 
