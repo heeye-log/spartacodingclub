@@ -7,7 +7,7 @@
 ## Schedule & Result
 ### 1. 2023년 버킷리스트 제작
 - 토이 프로젝트(1 Day)
-- 최종 결과물 & 느낀점 👉🏻 [버킷리스트](https://github.com/heeye-log/spartacodingclub/blob/main/bucketlist_site/README.md)
+- Demo & 느낀점 👉🏻 [버킷리스트](https://github.com/heeye-log/spartacodingclub/blob/main/bucketlist_site/README.md)
 
 ---
 
@@ -19,4 +19,4 @@
 |3주차|파이썬 기초 문법, 크롤링, mongoDB 제어|
 |4주차|Flask 프레임워크 활용,API 연결|
 |5주차|Flask 프레임워크 활용 API 제작, EC2에 프로젝트 업로드|
-- 최종 결과물 & 느낀점 👉🏻 [팬명록](https://github.com/heeye-log/spartacodingclub/tree/main/homework/P_homework)
+- Demo & 느낀점 👉🏻 [팬명록](https://github.com/heeye-log/spartacodingclub/tree/main/homework/P_homework)
