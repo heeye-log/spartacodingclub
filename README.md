@@ -7,7 +7,7 @@
 ## Schedule & Result
 ### 1. 2023년 버킷리스트 제작
 - 토이 프로젝트(1 Day)
-- Demo 👉🏻 [버킷리스트](https://github.com/heeye-log/spartacodingclub/blob/main/bucketlist_site/README.md)
+- Demo 👉🏻 [버킷리스트](https://heeye-log.github.io/spartacodingclub/)
 
 ---
 
