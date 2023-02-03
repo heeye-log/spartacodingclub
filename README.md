@@ -3,6 +3,7 @@
 
 ## Introduction
 - 기간 : 2023.01.01 - 2023.01.31
+- 스터디 정리 기록 및 느낀점 : [Blog](https://velog.io/@heehe/series/Sparta-coding-club)
 
 ## Schedule & Result
 ### 1. 2023년 버킷리스트 제작
