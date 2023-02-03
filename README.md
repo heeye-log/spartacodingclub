@@ -19,4 +19,4 @@
 |3주차|파이썬 기초 문법, 크롤링, mongoDB 제어|
 |4주차|Flask 프레임워크 활용,API 연결|
 |5주차|Flask 프레임워크 활용 API 제작, EC2에 프로젝트 업로드|
-- Demo 👉🏻 [팬명록](https://github.com/heeye-log/spartacodingclub/tree/main/homework/P_homework)
+- Demo 👉🏻 [팬명록](http://heeye.store/)
